@@ -1,3 +1,4 @@
+/*I added a constructor using the Week 3 activity and included a question to ask about the person’s mood.*/
 using System;
 
 class Program
