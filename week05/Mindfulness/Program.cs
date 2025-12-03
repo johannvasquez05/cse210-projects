@@ -1,4 +1,4 @@
-/* Added functionality to keep a log of how many times each activity has been performed. */
+/* Added functionality to keep a log of how many times each activity has been performed*/
 using System;
 
 class Program
